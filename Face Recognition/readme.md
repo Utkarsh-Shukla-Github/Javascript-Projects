@@ -1,4 +1,4 @@
-# Face Detection using JS
+# Face Recognition using JS
 
 Face expression recognition using javascript & face Api library.
 
