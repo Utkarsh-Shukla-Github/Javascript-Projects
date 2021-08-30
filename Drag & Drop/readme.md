@@ -1,4 +1,4 @@
-# Drag & Drop
+# Drag & Drop using JS
 A simple js project which allows you to drag & drop elements between containers.
 
 Deployed Link: https://drag-and-drop-vjs.netlify.app/
